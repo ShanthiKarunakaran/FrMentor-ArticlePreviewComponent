@@ -33,4 +33,3 @@ We provide SVGs for the social icons. But please feel free to use a font icon li
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
 
-## Test
